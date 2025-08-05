@@ -3,6 +3,8 @@
 ## Description
 This analysis provides a **comprehensive** overview of product performance and sales distribution, designed to inform strategic **decisions** for product management and marketing. This dashboard provides a clear summary of key metrics including revenue, profit, and **unit** sales across various product categories and geographic locations.
 
+![Dashboard](ProjectImg.png)
+
 ## Metrics:
 - **Total Revenue**: Primary measure of product performance and **sales** volume.
 - **Total Profit**: Key indicator of **business** health and product profitability.
